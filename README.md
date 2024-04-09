@@ -1,6 +1,6 @@
-# hydrie
+# tense
 
-A little hydrodynamics solver using Riemann solvers.
+A little tensor library for numerical computing
 
 ## Licensing
 
